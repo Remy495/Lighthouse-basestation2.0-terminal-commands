@@ -19,3 +19,5 @@
  Thie repo serve as a wiki of lighthouse basestation2.0 terminal commands
 
  WIP! All the commands and its uses will be in the wiki section of this repo.
+ 
+ Disclaimer: The author does not represent any company or organiation.
